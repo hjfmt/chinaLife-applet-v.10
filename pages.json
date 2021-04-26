@@ -1,0 +1,60 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [{
+			"path": "pages/productDetail/productDetail",
+			"style": {
+				"navigationBarTitleText": "产品详情",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#01B272",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/info/info",
+			"style": {
+				"navigationBarTitleText": "承保信息录入",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#01B272",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/dutyDetail/dutyDetail",
+			"style": {
+				"navigationBarTitleText": "保障详情",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#01B272",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/read/read",
+			"style": {
+				"navigationBarTitleText": "阅读",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#01B272",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/protocolContentRead/protocolContentRead",
+			"style": {
+				"navigationBarTitleText": "协议内容阅读",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#01B272",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "保险产品",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}

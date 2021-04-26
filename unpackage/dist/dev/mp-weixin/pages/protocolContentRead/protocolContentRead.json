@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "协议内容阅读",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#01B272",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item"
+  }
+}

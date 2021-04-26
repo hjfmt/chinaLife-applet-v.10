@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/productDetail/productDetail",
+    "pages/info/info",
+    "pages/dutyDetail/dutyDetail",
+    "pages/read/read",
+    "pages/protocolContentRead/protocolContentRead"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "保险产品",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

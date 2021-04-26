@@ -1,0 +1,15 @@
+
+.card.data-v-08b22634 {
+	background-color: #FFFFFF;
+	-webkit-border-radius: 20rpx;
+	        border-radius: 20rpx;
+	margin: 30rpx;
+	padding: 30rpx;
+}
+.card-title.data-v-08b22634 {
+	font-size: 30rpx;
+	color: #333;
+	margin-bottom: 30rpx;
+	font-weight:bold;
+}
+

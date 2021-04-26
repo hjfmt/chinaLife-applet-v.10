@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "承保信息录入",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#01B272",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-picker": "/uview-ui/components/u-picker/u-picker",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "u-radio-group": "/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uview-ui/components/u-radio/u-radio"
+  }
+}
